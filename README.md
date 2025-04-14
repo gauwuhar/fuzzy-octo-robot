@@ -59,14 +59,13 @@
 ## Инструкции для запуска
 
 1. Склонируйте репозиторий на вашу машину:
-git clone gauwuhar/fuzzy-octo-robot
+```git clone https://github.com/gauwuhar/fuzzy-octo-robot/```
 
 2. Установите необходимые зависимости:
-pip install -r requirements.txt
+```pip install -r requirements.txt```
 
 3. Откройте Jupyter Notebook:
-jupyter notebook
-
+```jupyter notebook```
 
 4. Запустите все ячейки в ноутбуке для анализа данных и генерации таргета для оттока.
 
